@@ -8,7 +8,7 @@ namespace ConsoleApp6
         {
 
             Console.WriteLine("gvanca eliauri");
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine(Console.ReadLine());
 
         }
