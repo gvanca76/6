@@ -7,12 +7,9 @@ namespace ConsoleApp6
         static void Main()
         {
 
-            Console.BackgroundColor = ConsoleColor.Green;
-            Console.ForegroundColor = ConsoleColor.Red;
-
-            Console.Write("bb");
-            Console.WriteLine("ccccccc");
-            Console.WriteLine("ddddddddd");
+            Console.WriteLine("gvanca eliauri");
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(Console.ReadLine());
 
         }
     }
